@@ -8,6 +8,7 @@ The brewery provided a historical dataset on beer quantities sold, which was the
 The dataset given by the company encompasses the daily beer sales figures over a one-year temporal period. 
 
 ## Task description
+Two distinct analyses have been conducted: the first examines the correlation between burger and beer sales and precipitation levels, while the second analyzes the correlation between burger and beer sales and temperature.
 ### 1.Data Exploration
 Understanding the Structure: The dataset is explored to gain insights into its structure and to identify any necessary data preparation steps.
 
