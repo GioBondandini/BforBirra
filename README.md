@@ -1,5 +1,5 @@
 # Forecasting analysis of beer sales. 
-An predictive analysis has been conducted for BforBirra, examining the correlation between beer sales and weather forecasts. For the purpose of the analysis, open data on temperature, humidity, and precipitation has been employed.
+A predictive analysis has been conducted for the company BforBirra, examining the correlation between beer sales and weather forecasts. For the purpose of the analysis, open data on temperature, humidity, and precipitation has been employed.
 
 ## Overview 
 The brewery provided a historical dataset on beer quantities sold, which was then integrated with open data pertaining to temperature, humidity, and precipitation to develop a sales forecast using machine learning forecasting models. 
