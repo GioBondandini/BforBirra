@@ -17,3 +17,10 @@ Forecasting Selection: The forecasting algorithm selected for the task is Prophe
 
 ## Repository contents 
 -	requirements.txt: Contains the necessary Python modules to be installed to run the code.
+
+## Conclusion
+As evident from the charts, burger sales have consistently risen over the past year, yet they continue to align with the weekly pattern observed in the bottom-right graph, showing higher sales during weekends.
+No correlation is apparent between sales and temperature or precipitation.
+
+
+
