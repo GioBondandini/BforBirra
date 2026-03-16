@@ -1,4 +1,5 @@
 # Forecasting analysis of beer&burger sales. 
+
 A predictive analysis has been conducted for the company BforBirra, examining the correlation between beer&burger sales and weather forecasts. For the purpose of the analysis, open data on temperature, humidity, and precipitation has been employed.
 
 
