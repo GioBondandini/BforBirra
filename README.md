@@ -11,7 +11,7 @@ Weather data includes daily average temperature, precipitation, and humidity.
 The final dataset merges sales and weather data, ensuring that each sales observation is paired with the corresponding weather conditions.
 
 ## Task description
-Two distinct analyses have been conducted: the first examines the correlation between burger and beer sales and precipitation levels, while the second analyzes the correlation between burger and beer sales and temperature.
+Two separate analyses were carried out: the first investigates the correlation between precipitation levels and burger and beer sales, while the second examines the relationship between temperature and burger and beer sales.
 
 ### 1.Data Exploration
 Examine the structure of the dataset and identify missing values and outliers.
@@ -27,13 +27,13 @@ Train a Prophet forecasting model, including regressors for month bins and seaso
 ## Conclusion
 Preliminary analysis and forecast results suggest that:
 
-Burger sales show a consistent upward trend over the year, reflecting overall business growth.
+- Burger sales show a consistent upward trend over the year, reflecting overall business growth.
 
-Weekly seasonality is pronounced, with higher sales during weekends.
+- Weekly seasonality is pronounced, with higher sales during weekends.
 
-Temperature and precipitation show weak correlations with sales, indicating that other factors (e.g., weekends, events, promotions) are more influential for demand.
+- Temperature and precipitation show weak correlations with sales, indicating that other factors (e.g., weekends, events, promotions) are more influential for demand.
 
-The Prophet model provides a robust short-term forecast and captures seasonal patterns effectively, which can help in inventory planning and marketing strategies.
+The Prophet model provides a robust short-term forecast and captures seasonal patterns effectively.
 
 
 
